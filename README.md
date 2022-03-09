@@ -2,4 +2,6 @@
 My ITP project
 
 ## Supported systems
-You must open it via Clion
+-Windows 10
+-Windows 11
+> You must open it via Clion
