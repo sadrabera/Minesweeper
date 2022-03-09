@@ -1,5 +1,5 @@
 # Minesweeper
 My ITP project
 
-##Supported systems
+## Supported systems
 You must open it via Clion
