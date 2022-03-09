@@ -17,4 +17,4 @@ My ITP project
 
 
 ## Thanks to
-- [Amin Samadi](www.aminsamadi90@gmail.com) who created template of this Programm and [Mohamad Ali Dahaghin](http://instagram.com/dahaghin_ma) who helpd for game assets
+- [Amin Samadi](aminsamadi90@gmail.com) who created template of this Programm and [Mohamad Ali Dahaghin](http://instagram.com/dahaghin_ma) who helpd for game assets
