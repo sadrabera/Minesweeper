@@ -12,7 +12,7 @@ My ITP project
 4. put all these files on ***yourProjectName*** folder.
 5. now run the game via Clion ✌️
 ## Library
-- This library has been created By [Mr.Dehghan](https://github.com/MSDehghan) and others [see more information](https://github.com/MSDehghan/SBDL/blob/master/SBDL.h)
+- This library has been created By [Mr.Dehghan](https://github.com/MSDehghan) and others. [see more information](https://github.com/MSDehghan/SBDL/blob/master/SBDL.h)
 
 
 
