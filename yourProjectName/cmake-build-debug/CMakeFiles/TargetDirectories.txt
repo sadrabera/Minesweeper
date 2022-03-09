@@ -1,3 +1,0 @@
-C:/Users/DELL/CLionProjects/yourProjectName/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DELL/CLionProjects/yourProjectName/cmake-build-debug/CMakeFiles/yourProjectName.dir
-C:/Users/DELL/CLionProjects/yourProjectName/cmake-build-debug/CMakeFiles/rebuild_cache.dir
